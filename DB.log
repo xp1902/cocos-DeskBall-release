@@ -1,0 +1,13 @@
+﻿  ChartsScene.cpp
+  HelloWorldScene.cpp
+..\Classes\ChartsScene.cpp(21): warning C4996: 'cocos2d::Sprite::setFlipY': 被声明为已否决
+  c:\users\xp1902\desktop\cocos\db\cocos2d\cocos\2d/CCSprite.h(404): note: 参见“cocos2d::Sprite::setFlipY”的声明
+    正在创建库 C:\Users\xp1902\Desktop\cocos\DB\proj.win32\Release.win32\DB.lib 和对象 C:\Users\xp1902\Desktop\cocos\DB\proj.win32\Release.win32\DB.exp
+  正在生成代码
+  2 of 1446 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DB.vcxproj -> C:\Users\xp1902\Desktop\cocos\DB\proj.win32\Release.win32\DB.exe
+  DB.vcxproj -> C:\Users\xp1902\Desktop\cocos\DB\proj.win32\Release.win32\DB.pdb (Full PDB)
+  复制了 0 个文件
